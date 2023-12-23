@@ -1,2 +1,3 @@
 # ML (AdaBoost) Project
- Analysis of Company Bankruptcy data
+ 
+Valuable insights of Bankrupt Company
